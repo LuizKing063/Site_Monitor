@@ -1,4 +1,1 @@
 https://www.alura.com.br/
-https://chat.openai.com/chat/
-https://random-status-code.herokuapp.com
-https://luizking063.github.io/SiteTemplate/
